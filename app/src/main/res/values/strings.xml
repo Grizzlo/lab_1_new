@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Virus Game</string>
+    <string name="btn_play">Play!</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_settings">Settings</string>
+    <string name="move"> </string>
+    <string name="empty"> </string>
+</resources>
