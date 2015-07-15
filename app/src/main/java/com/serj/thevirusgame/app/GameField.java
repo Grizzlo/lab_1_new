@@ -5,7 +5,7 @@ import java.util.Random;
 // Клас, що відповідає за данні ігрового поля
 public class GameField {
 
-    // Матриця клітинок поля
+    // Матриця клітинок поляddnlqwkndlkwkqndlwq
     static private Cell matrix[][];
 
     // Розміри поля (висота та ширина)
