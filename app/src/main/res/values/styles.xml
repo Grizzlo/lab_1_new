@@ -2,17 +2,17 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="MainTheme">
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="MainTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="MainTheme" parent="MainTheme">
         <item name="android:textColor">@color/textColor</item>
         <item name="android:windowBackground">@color/windowBackground</item>
         <item name="android:buttonStyle">@style/ButtonTheme</item>
     </style>
 
-    <style name="PlaygroundTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="PlaygroundTheme" parent="MainTheme">
 
         <item name="android:buttonStyle">@style/ButtonTheme</item>
     </style>
